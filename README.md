@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Letícia, tenho 17 anos e sou estudante do último semestre do Técnico Integrado em Informática - IFSC</p>
+<p align="left">Meu nome é Letícia, tenho 17 anos e sou estudante do Técnico Integrado em Informática - IFSC</p>
 
 ###
 
