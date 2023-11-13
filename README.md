@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ IFSC - Informática 6/6<br>📚 Estudando React<br>
+✨ IFSC - Informática 6/6<br>📚 Estudando React<br>17Y<br>
 
 
 ## 🌐 Socials:
