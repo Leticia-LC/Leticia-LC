@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ IFSC - Informática 6/6<br>📚 Estudando React - Entra21<br>17Y<br>
+✨ Técnica em Informática - IFSC<br>📚 Estudando React - Entra21<br>18Y<br>
 
 
 ## 🌐 Socials:
