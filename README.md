@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Técnica em Informática - IFSC<br>📚 Estudando React - Entra21<br>💻Análise e Desenvolvimento de Sistemas 1/5<br>18y<br>
+✨ Técnica em Informática - IFSC<br>📚 Estudando React - Entra21<br>💻 Análise e Desenvolvimento de Sistemas 1/5<br>18y<br>
 
 
 ## 🌐 Socials:
