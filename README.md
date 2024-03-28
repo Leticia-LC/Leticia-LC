@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Técnica em Informática - IFSC<br>📚 React - Entra21<br>💻 Análise e Desenvolvimento de Sistemas 1/5<br>⌨️ Estudando Flutter - LinceTech Academy<br> 18Y
+✨ Técnica em Informática - IFSC<br>📚 React - Entra21<br>💻 Análise e Desenvolvimento de Sistemas 1/5<br>⌨️ Estudando Flutter - Lince Tech Academy<br> 18Y
 
 
 ## 🌐 Socials:
